@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": "Servermsp.aternos.me",
     "port": 25565,
-    "version": "",
+    "version": "20549",
     "try-creative": false
   },
   "position": {
