@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "Servermsp.aternos.me",
-    "port": 25565,
-    "version": "20549",
+    "port": 20549,
+    "version": "",
     "try-creative": false
   },
   "position": {
